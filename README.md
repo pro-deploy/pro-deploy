@@ -47,7 +47,7 @@
 -
 
 ### Languages and Tools
-[![yaml](https://img.shields.io/badge/-yaml-090909?style=for-the-badge&logo=yaml&logoColor=ae1dde)](#languages-and-tools)
+[![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=ae1dde)](#languages-and-tools)
 
 ### Follow Me
 
