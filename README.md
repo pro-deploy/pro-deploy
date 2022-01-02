@@ -1,6 +1,4 @@
-![Header](https://github.com/..header.png)
-
-## I'm a DevOps engineer
+## I'm a beginner DevOps engineer
 
 В данный момент я изучаю набор практик DevOps.
 
