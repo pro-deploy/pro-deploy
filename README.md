@@ -47,7 +47,7 @@
 -
 
 ### Languages and Tools
-[![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=ae1dde)](#languages-and-tools)
+[![yaml](https://img.shields.io/badge/-yaml-090909?style=for-the-badge&logo=Kotlin&logoColor=ae1dde)](#languages-and-tools)
 
 ### Follow Me
 
