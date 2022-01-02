@@ -20,9 +20,7 @@
 - знание основных утилит в линукс (ps, grep, cat, free и т.д.);
 
 Знание Docker;
-
 Знание Jenkins;
-
 Знание Kubernetes
 Знание AWS
 
