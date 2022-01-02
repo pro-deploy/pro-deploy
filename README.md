@@ -2,6 +2,8 @@
 
 В данный момент я изучаю набор практик DevOps.
 
+## To do
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkinmax&show_icons=true&theme=tokyonight)
 
 ### Latest YouTube Videos
