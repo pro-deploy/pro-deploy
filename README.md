@@ -23,10 +23,8 @@
 
 Знание Jenkins;
 
-Знание Kubernetes;
-
-Знание AWS;
-
+Знание Kubernetes
+Знание AWS
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkinmax&show_icons=true&theme=tokyonight)
 
