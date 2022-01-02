@@ -31,7 +31,7 @@
 Знание AWS:
 - TBD.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkinmax&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
 ### Latest YouTube Videos
 
