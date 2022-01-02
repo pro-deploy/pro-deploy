@@ -18,11 +18,14 @@
 - знание bash на уровне чтения скриптов;
 - умение работать с консолью (автокомплит, хистори и т.д.);
 - знание основных утилит в линукс (ps, grep, cat, free и т.д.);
-
-Знание Docker;
-Знание Jenkins;
-Знание Kubernetes
-Знание AWS
+Знание Docker:
+- TBD;
+Знание Jenkins:
+- TBD;
+Знание Kubernetes:
+- TBD;
+Знание AWS:
+- TBD.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkinmax&show_icons=true&theme=tokyonight)
 
