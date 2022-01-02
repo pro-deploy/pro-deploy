@@ -36,12 +36,12 @@
 #### Additionally:
 - Возможность выбора монолита или микросервисов
 - Возможность увеличить нагрузку
-- Возможность git-flow
+- Возможность выбора git-flow
 
 ### Latest YouTube Videos
 
 -
-
+ 
 ### Latest Blog Posts
 
 -
