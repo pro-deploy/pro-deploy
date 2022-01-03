@@ -49,6 +49,7 @@
 ### Languages and Tools
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=ae1dde)](#languages-and-tools)
 [![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=GO&logoColor=ae1dde)](#languages-and-tools)
+[![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&logoColor=ae1dde)](#languages-and-tools)
 
 
 ### Follow Me
