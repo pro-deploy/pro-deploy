@@ -5,10 +5,11 @@
 В данный момент я изучаю набор практик DevOps и для проктики решил создать свой тестовый проект автоматичесаким полным циклом разработки ПО.
 
 ## My favorite project
-* [HomeInstanceAWS](https://github.com/pro-deploy/homeInstance) - Операционное приложение для домашнего облака на платформе Kubernetes. В облако входят следующие приложения:
+* [HomeInstanceAWS](https://github.com/pro-deploy/homeInstance) - Управление домашним облаком построеное на платформе Kubernetes. В облако входят следующие приложения:
   * [ScrumChat](https://github.com/pro-deploy/scrumChat)
-  * [HomeDisk](https://github.com/pro-deploy/homeDisk)
+  * [HomeDisk](https://github.com/pro-deploy/homeDisk) - домашнее хранилище файлов и данных с автоматической загрузкой из любых источников.
   * [LookHouse](https://github.com/pro-deploy/lookHouse)
+  * [HomeToDo](https://github.com/pro-deploy/homeToDo)
 
 ### To do
 - Предоставить продуктовым командам кластера Kubernetes. Несколько кластеров на продукт;
