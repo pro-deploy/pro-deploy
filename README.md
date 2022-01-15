@@ -4,6 +4,10 @@
 
 В данный момент я изучаю набор практик DevOps и для проктики решил создать свой тестовый проект автоматичесаким полным циклом разработки ПО.
 
+## My favorite project
+![Home_Instance_AWS](https://img.shields.io/badge/-Home_Instance_AWS-090909?style=for-the-badge&logo=Home_Instance_AWS&logoColor=ae1dde)
+![Scrum_Chat](https://img.shields.io/badge/-Scrum_Chat-090909?style=for-the-badge&logo=Scrum_Chat&logoColor=ae1dde)
+
 ### To do
 - Предоставить продуктовым командам кластера Kubernetes. Несколько кластеров на продукт;
 - Организовать командную работу с Git;
