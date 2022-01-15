@@ -24,26 +24,6 @@
 - Автоматизировать рутинные операции.
 - Тиражируемость решения на другие продукты/команды.
 
-### Show if possible
-#### Linux:
-- умение работать с systemd, sudo, ip, ifconfig;
-- знание, как работает сеть, основные протоколы;
-- знание bash на уровне чтения скриптов;
-- умение работать с консолью (автокомплит, хистори и т.д.);
-- знание основных утилит в линукс (ps, grep, cat, free и т.д.);
-
-#### Docker:
-- TBD;
-
-#### Jenkins:
-- TBD;
-
-#### Kubernetes:
-- TBD;
-
-#### AWS:
-- TBD.
-
 #### Additionally:
 - Возможность выбора монолита или микросервисов
 - Возможность увеличить нагрузку
@@ -51,20 +31,21 @@
 
 ### Latest YouTube Videos
 
--
+- TBD
  
 ### Latest Blog Posts
 
--
+- TBD
 
 ### Languages and Tools
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=ae1dde)](#languages-and-tools)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=ae1dde)](#languages-and-tools)
 [![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=GO&logoColor=ae1dde)](#languages-and-tools)
+[![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=ae1dde)](#languages-and-tools)
 [![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&logoColor=ae1dde)](#languages-and-tools)
-
 
 ### Follow Me
 
-[![Website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.prodeploy.ru/)
+[![www.prodeploy.ru](https://img.shields.io/badge/-www.prodeploy.ru-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.prodeploy.ru/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=b4068e)](https://www.instagram.com/maxbirkin/)
