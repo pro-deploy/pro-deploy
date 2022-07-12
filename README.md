@@ -50,7 +50,7 @@ I like to write programs in GO and apply DevOps practices in my projects.
 [![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&logoColor=D24939)](#languages-and-tools)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2496ED)](#languages-and-tools)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=326CE5)](#languages-and-tools)
-[![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=AWS&logoColor=FF9900)](#languages-and-tools)
+[![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](#languages-and-tools)
 [![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=Linux&logoColor=FCC624)](#languages-and-tools)
 [![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=apachekafka&logoColor=231F20)](#languages-and-tools)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)](#languages-and-tools)
