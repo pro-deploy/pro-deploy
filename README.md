@@ -52,7 +52,7 @@ I like to write programs in GO and apply DevOps practices in my projects.
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=346be6)](#languages-and-tools)
 [![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=AWS&logoColor=eb3a2b)](#languages-and-tools)
 [![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=Linux&logoColor=ffcd32)](#languages-and-tools)
-[![apachekafka](https://img.shields.io/badge/-apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=eb3a2b)](#languages-and-tools)
+[![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=apachekafka&logoColor=231F20)](#languages-and-tools)
 [![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=eb3a2b)](#languages-and-tools)
 [![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=eb3a2b)](#languages-and-tools)
 [![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=eb3a2b)](#languages-and-tools)
