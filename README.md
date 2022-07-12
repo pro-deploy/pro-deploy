@@ -29,8 +29,8 @@
 [![BPMN](https://img.shields.io/badge/-BPMN-090909?style=for-the-badge&logo=BPMN&logoColor=eb3a2b)](#languages-and-tools)
 
 ## My favorite project
+* [proDeployBotNews](https://github.com/pro-deploy/proDeployBotNews) - Бот автоматической публикации статей из разных источников
 * [HomeInstanceAWS](https://github.com/pro-deploy/homeInstance) - Управление домашним облаком построеное на платформе Kubernetes. В облако входят следующие приложения:
-  * [ScrumChat](https://github.com/pro-deploy/scrumChat)
   * [HomeDisk](https://github.com/pro-deploy/homeDisk) - домашнее хранилище файлов и данных с автоматической загрузкой из любых источников.
   * [LookHouse](https://github.com/pro-deploy/lookHouse)
   * [HomeToDo](https://github.com/pro-deploy/homeToDo)
