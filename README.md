@@ -4,9 +4,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pro-deploy&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
-
 <p align="left">I like to write programs in GO and apply DevOps practices in my projects.</p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
 ### Follow Me
 [![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
