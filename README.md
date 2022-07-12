@@ -1,12 +1,14 @@
-<h1 align="left">Hi there, I'm <a href="https://www.pro-deploy.com" target="_blank">Max</a> 
+
+<h1 align="left">Hi there, I'm <a href="https://www.pro-deploy.com" target="_blank">Max</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="left">GO developer, DevOps engineer and IT news writer from Russia 🇷🇺</h3>
+
+![](https://komarev.com/ghpvc/?username=pro-deploy&label=PROFILE+VIEWS)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pro-deploy&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 <p align="left">I like to write programs in GO and apply DevOps practices in my projects.</p>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
 ### Follow Me
 [![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
@@ -65,4 +67,4 @@
 
 - TBD
 
-![](https://komarev.com/ghpvc/?username=pro-deploy&label=PROFILE+VIEWS)
+
