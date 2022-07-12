@@ -1,5 +1,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
+### Follow Me
+
+[![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
+[![Pro Deploy](https://img.shields.io/badge/-Pro_Deploy-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/prodeploy)
+[![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
+[![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Linkedin&logoColor=27A0d9)](https://www.linkedin.com/in/maxbirkin)
+
 ## I'm GO developers end DevOps engineer
 
 I like to write programs in GO and apply DevOps practices in my projects.
@@ -46,9 +53,3 @@ I like to write programs in GO and apply DevOps practices in my projects.
 [![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61dafb)](#languages-and-tools)
 [![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&logoColor=eb3a2b)](#languages-and-tools)
 
-### Follow Me
-
-[![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
-[![Pro Deploy](https://img.shields.io/badge/-Pro_Deploy-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/prodeploy)
-[![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
-[![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Linkedin&logoColor=27A0d9)](https://www.linkedin.com/in/maxbirkin)
