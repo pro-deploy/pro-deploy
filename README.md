@@ -47,5 +47,5 @@ I like to write programs in GO and apply DevOps practices in my projects.
 ### Follow Me
 
 [![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
-[![Max Birkin](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
 [![Pro Deploy](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/prodeploy)
+[![Max Birkin](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
