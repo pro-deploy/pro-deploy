@@ -1,6 +1,7 @@
 <h1 align="left">Hi there, I'm <a href="https://www.pro-deploy.com" target="_blank">Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Developer end IT news writer from Russia 🇷🇺</h3>
+<h3 align="left">GO developer, DevOps engineer and IT news writer from Russia 🇷🇺</h3>
+<h5 align="left">I like to write programs in GO and apply DevOps practices in my projects.</h5>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
@@ -27,10 +28,6 @@
 [![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052CC)](#languages-and-tools)
 [![UML](https://img.shields.io/badge/-UML-090909?style=for-the-badge&logo=UML&logoColor=eb3a2b)](#languages-and-tools)
 [![BPMN](https://img.shields.io/badge/-BPMN-090909?style=for-the-badge&logo=BPMN&logoColor=eb3a2b)](#languages-and-tools)
-
-## I'm GO developers end DevOps engineer
-
-I like to write programs in GO and apply DevOps practices in my projects.
 
 ## My favorite project
 * [HomeInstanceAWS](https://github.com/pro-deploy/homeInstance) - Управление домашним облаком построеное на платформе Kubernetes. В облако входят следующие приложения:
