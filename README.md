@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm <a href="https://www.pro-deploy.com" target="_blank">Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">GO developer, DevOps engineer and IT news writer from Russia 🇷🇺</h3>
-<h5 align="left">I like to write programs in GO and apply DevOps practices in my projects.</h5>
+<p align="left">I like to write programs in GO and apply DevOps practices in my projects.</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
