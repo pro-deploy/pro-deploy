@@ -1,3 +1,7 @@
+<h1 align="left">Hi there, I'm <a href="https://www.pro-deploy.com" target="_blank">Max</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="left">Developer end IT news writer from Russia 🇷🇺</h3>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
 ### Follow Me
