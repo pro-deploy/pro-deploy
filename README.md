@@ -46,6 +46,6 @@
 
 ### Follow Me
 
-[![www.prodeploy.ru](https://img.shields.io/badge/-www.prodeploy.ru-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
+[![www.prodeploy.ru](https://img.shields.io/badge/-www.pro-deploy.ru-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=b4068e)](https://www.instagram.com/maxbirkin/)
