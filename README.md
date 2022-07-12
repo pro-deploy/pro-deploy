@@ -30,6 +30,7 @@
 
 ## My favorite project
 * [proDeployBotNews](https://github.com/pro-deploy/proDeployBotNews) - Бот автоматической публикации статей из разных источников
+* [APIGateway](https://github.com/pro-deploy/APIGateway) - APIGateway
 * [HomeInstanceAWS](https://github.com/pro-deploy/homeInstance) - Управление домашним облаком построеное на платформе Kubernetes. В облако входят следующие приложения:
   * [HomeDisk](https://github.com/pro-deploy/homeDisk) - домашнее хранилище файлов и данных с автоматической загрузкой из любых источников.
   * [LookHouse](https://github.com/pro-deploy/lookHouse)
