@@ -45,11 +45,19 @@ I like to write programs in GO and apply DevOps practices in my projects.
 - TBD
 
 ### Languages and Tools
-, , Confluence, Jira, Youtrack, Git, Github, Gitlab, Bitbucket, UML, BPMN, Postman, Swagger, Figma, Photoshop, Camunda Modeler, Visio, SQL, REST, SOAP, MQ, HTML/CSS, XML, JSON, basic Java, GO, Kafka, AWS, Kubernetes, Docker, CI/CD, Linux
-
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=346be6)](#languages-and-tools)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=019ac6)](#languages-and-tools)
 [![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=GO&logoColor=69d8e2)](#languages-and-tools)
 [![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61dafb)](#languages-and-tools)
 [![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&logoColor=eb3a2b)](#languages-and-tools)
-
+[![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=eb3a2b)](#languages-and-tools)
+[![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=eb3a2b)](#languages-and-tools)
+[![UML](https://img.shields.io/badge/-UML-090909?style=for-the-badge&logo=UML&logoColor=eb3a2b)](#languages-and-tools)
+[![BPMN](https://img.shields.io/badge/-BPMN-090909?style=for-the-badge&logo=BPMN&logoColor=eb3a2b)](#languages-and-tools)
+[![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=eb3a2b)](#languages-and-tools)
+[![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=eb3a2b)](#languages-and-tools)
+[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=eb3a2b)](#languages-and-tools)
+[![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=AWS&logoColor=eb3a2b)](#languages-and-tools)
+[![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=eb3a2b)](#languages-and-tools)
+[![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=Kafka&logoColor=eb3a2b)](#languages-and-tools)
+[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=eb3a2b)](#languages-and-tools)
