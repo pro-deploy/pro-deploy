@@ -1,12 +1,11 @@
 <h1 align="left">Hi there, I'm <a href="https://www.pro-deploy.com" target="_blank">Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">GO developer, DevOps engineer and IT news writer from Russia 🇷🇺</h3>
-<p align="left">I like to write programs in GO and apply DevOps practices in my projects.</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
+<p align="left">I like to write programs in GO and apply DevOps practices in my projects.</p>
 
 ### Follow Me
-
 [![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
 [![Pro Deploy](https://img.shields.io/badge/-Pro_Deploy-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/prodeploy)
 [![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
