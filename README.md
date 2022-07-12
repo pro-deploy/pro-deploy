@@ -1,8 +1,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pro-deploy&show_icons=true&theme=tokyonight)
 
-## I'm a beginner DevOps engineer
+## I'm GO developers end DevOps engineer
 
-В данный момент я изучаю набор практик DevOps и для проктики решил создать свой тестовый проект автоматичесаким полным циклом разработки ПО.
+I like to write programs in GO and apply DevOps practices in my projects.
 
 ## My favorite project
 * [HomeInstanceAWS](https://github.com/pro-deploy/homeInstance) - Управление домашним облаком построеное на платформе Kubernetes. В облако входят следующие приложения:
