@@ -40,7 +40,7 @@ I like to write programs in GO and apply DevOps practices in my projects.
 ### Languages and Tools
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=346be6)](#languages-and-tools)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=019ac6)](#languages-and-tools)
-[![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=GO&logoColor=ae1dde)](#languages-and-tools)
+[![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=GO&logoColor=69d8e2)](#languages-and-tools)
 [![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61dafb)](#languages-and-tools)
 [![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&logoColor=eb3a2b)](#languages-and-tools)
 
