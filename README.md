@@ -38,6 +38,8 @@ I like to write programs in GO and apply DevOps practices in my projects.
 - TBD
 
 ### Languages and Tools
+, , Confluence, Jira, Youtrack, Git, Github, Gitlab, Bitbucket, UML, BPMN, Postman, Swagger, Figma, Photoshop, Camunda Modeler, Visio, SQL, REST, SOAP, MQ, HTML/CSS, XML, JSON, basic Java, GO, Kafka, AWS, Kubernetes, Docker, CI/CD, Linux
+
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=Kubernetes&logoColor=346be6)](#languages-and-tools)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=019ac6)](#languages-and-tools)
 [![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=GO&logoColor=69d8e2)](#languages-and-tools)
@@ -49,3 +51,4 @@ I like to write programs in GO and apply DevOps practices in my projects.
 [![www.pro-deploy.com](https://img.shields.io/badge/-www.pro—deploy.com-090909?style=for-the-badge&logo=Web&logoColor=1195f5)](https://www.pro-deploy.com/)
 [![Pro Deploy](https://img.shields.io/badge/-Pro_Deploy-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/prodeploy)
 [![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Telegram&logoColor=27A0d9)](https://t.me/birkinmax)
+[![Max Birkin](https://img.shields.io/badge/-Max_Birkin-090909?style=for-the-badge&logo=Linkedin&logoColor=27A0d9)](https://www.linkedin.com/in/maxbirkin)
